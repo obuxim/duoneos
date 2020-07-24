@@ -1,0 +1,5 @@
+.well_known/
+cgi-bin/
+cloud/
+office/
+error_log
